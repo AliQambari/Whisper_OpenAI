@@ -13,3 +13,10 @@ Here are some of the potential applications of Whisper:
 -Developing voice-controlled interfaces for devices and applications
 -Translating speech in real time for communication between people who speak different languages
 -Improving the accuracy of automated customer service systems
+
+
+#link:
+
+https://openai.com/research/whisper
+
+(ALL RIGHTS RESERVED TO OPENAI)
